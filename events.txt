@@ -1,0 +1,4 @@
+AddBook(Book1(title: "Hello"))
+AddBook(Book2(title: "World"))
+RemoveBook(Book1(title: "Hello"))
+
